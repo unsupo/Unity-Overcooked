@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45199d72753b34a8198e46ae5fa73d5d, type: 3}
+  m_Name: BasicBurgerCabbage
+  m_EditorClassIdentifier: 
+  visualCompletedRecipe: {fileID: 408889407006782757, guid: a39a3d84eaf154f91a5a3b5cb04017d0,
+    type: 3}
+  visualGameObject: {fileID: 0}
+  visualSprite: {fileID: 21300000, guid: 8356ef10ea8794a34b9fa3ad06ab80e0, type: 3}
